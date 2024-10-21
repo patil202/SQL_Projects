@@ -1,0 +1,14 @@
+#The main objectives of this project are:
+
+- To retrieve specific data from the Sakila database based on given criteria.
+- To optimize SQL queries for better performance and utilisation of resources.
+- To provide insights and reports based on the extracted data.
+
+
+
+
+
+
+
+#Conclusion
+With this analysis of the data we are now aware of which type of movies to keep in stock, active customers to keep and can also further create a predictive model to predict the sales of film but for that, we need some more data.
